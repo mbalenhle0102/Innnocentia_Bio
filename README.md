@@ -32,16 +32,19 @@ I am an IT professional based in South Africa with a strong foundation in techni
 
 ### 📜 Certifications & Education
 
-* **Cisco Networking Academy:** Networking Essentials / Network Addressing & Basic Troubleshooting *(Currently pursuing CCNA)*
-* **Google:** IT Support Professional Certificate
-* **Google:** AI Essentials Certificate
-* **IBM:** Introduction to Project Management
-* **FETC:** Information Technology: Technical Support (NQF Level 4)
+* **Currently Studying:** National Certificate: Information Technology: Systems Support (NQF Level 5)
+* **Currently Studying:** Cisco Certified Network Associate (CCNA)
+* **Google:** AI Essentials Certificate *(Completed)*
+* **Google:** IT Support Professional Certificate *(Completed)*
+* **Cisco Networking Academy:** Networking Essentials / Network Addressing & Basic Troubleshooting *(Completed)*
+* **IBM:** Introduction to Project Management *(Completed)*
+* **FETC:** Information Technology: Technical Support (NQF Level 4) *(Completed)*
 
 ---
 
 ### 🌱 Currently Focusing On
 
+* Completing my **National Certificate: Information Technology: Systems Support (NQF Level 5)** qualification.
 * Deepening my expertise in enterprise routing, switching, and network architecture for the **Cisco Certified Network Associate (CCNA)** certification.
 * Expanding practical skills in cloud infrastructure, system administration, and AI-driven IT automation.
 
